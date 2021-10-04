@@ -7,3 +7,7 @@ Atharva Taras (Leader)
 Sanskruti Kakade  
 Kartik Rajendran  
 Vainshnavi Nimkar  
+
+Tech Stack
+HTML - Webpage  
+CSS - Webpage styling  
