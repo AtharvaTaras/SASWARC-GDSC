@@ -1,5 +1,6 @@
 # SASWARC-GDSC
-**Group Project by Team SASWARC - AISSMS IOIT Google Developer Student Clubs  
+**Group Project by Team SASWARC  
+AISSMS IOIT Google Developer Student Clubs  
 Topic - Clean India**
 
 ### Members  
