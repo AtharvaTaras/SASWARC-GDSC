@@ -20,7 +20,8 @@
               var amt = ppr * wght;
           }
         
+//to be fixed!!!
           alert(amt, "added to your account", phon)
 
 
-        </script> 
+</script> 
