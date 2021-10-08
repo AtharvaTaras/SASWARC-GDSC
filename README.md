@@ -16,3 +16,12 @@ HTML - Webpage Framework and Layout
 CSS  - Webpage Styling  
 Javascript - Client Side Scripting  
 Netlify    - Website Hosting  
+
+### Individual Contributions  
+
+Kartik Rajendran -  
+Created HTML page  
+Crested CSS stylesheet  
+Bug fizes for HTML and CSS  
+Optimized webpage  
+
