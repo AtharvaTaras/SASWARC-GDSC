@@ -19,9 +19,31 @@ Netlify    - Website Hosting
 
 ### Individual Contributions  
 
-Kartik Rajendran -  
+**Atharva Taras -**  
+Bug fixes for CSS    
+Netlify deployment and management  
+Python prototyping  
+JS coding  
+Photoshopped images for website  
+Downloaded images for gallery  
+Created and maintained ReadMe file  
+Created PPT  
+
+**Kartik Rajendran -**  
 Created HTML page  
 Crested CSS stylesheet  
 Bug fizes for HTML and CSS  
 Optimized webpage  
+PPT contribution  
+
+**Sanskruti Kakade -**  
+Bug fixes for CSS  
+Downloaded images for website  
+Resource gathering  
+PPT contribution  
+
+**Vaishnavi Nimkar -**  
+Resource gathering  
+PPT contribution  
+
 
