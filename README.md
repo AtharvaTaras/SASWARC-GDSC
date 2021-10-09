@@ -16,7 +16,7 @@ HTML - Webpage Framework and Layout
 CSS - Webpage Styling  
 Javascript - Client Side Scripting  
 Netlify - Website Hosting  
-PHP - Login System
+PHP - Login System  
 MySQL - Database
 
 ### Individual Contributions  
@@ -37,6 +37,7 @@ Crested CSS stylesheet
 Bug fizes for HTML and CSS  
 Optimized webpage  
 PPT contribution  
+Created login system  
 
 **Sanskruti Kakade -**  
 Bug fixes for CSS  
@@ -47,5 +48,6 @@ PPT contribution
 **Vaishnavi Nimkar -**  
 Resource gathering  
 PPT contribution  
+Dowloaded images  
 
 
