@@ -17,7 +17,7 @@ CSS - Webpage Styling
 Javascript - Client Side Scripting  
 Netlify - Website Hosting  
 PHP - Login System  
-MySQL - Database
+XAMPP - Database
 
 ### Individual Contributions  
 
