@@ -1,6 +1,6 @@
 <?php
 /*
-This file contains database configuration assuming you are running mysql, using user "root" and password ""
+connect to netlify
 */
 
 define('DB_SERVER', 'localhost');
