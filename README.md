@@ -4,6 +4,7 @@ AISSMS IOIT Google Developer Student Clubs
 Topic - Clean India**
 
 Preview website (under development) - https://clean-india.netlify.app/  
+Presentation link - https://docs.google.com/presentation/d/1c97EhL7YcSMM4m6DIm-WYaH2CWpVFBsH2r3DQZTz-2Q/edit?usp=sharing  
 
 ### Members  
 Atharva Taras (Leader)  
