@@ -30,6 +30,7 @@ Photoshopped images for website
 Downloaded images for gallery  
 Created and maintained ReadMe file  
 Created PPT  
+Created contact form backend  
 
 **Kartik Rajendran -**  
 Created HTML page  
@@ -44,6 +45,7 @@ Bug fixes for CSS
 Downloaded images for website  
 Resource gathering  
 PPT contribution  
+Created php files  
 
 **Vaishnavi Nimkar -**  
 Resource gathering  
