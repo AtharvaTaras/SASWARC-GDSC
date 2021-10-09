@@ -13,9 +13,11 @@ Vainshnavi Nimkar
 
 ### Tech Stack
 HTML - Webpage Framework and Layout  
-CSS  - Webpage Styling  
+CSS - Webpage Styling  
 Javascript - Client Side Scripting  
-Netlify    - Website Hosting  
+Netlify - Website Hosting  
+PHP - Login System
+MySQL - Database
 
 ### Individual Contributions  
 
