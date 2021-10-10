@@ -36,8 +36,8 @@ Created video
 
 **Kartik Rajendran -**  
 Created HTML page  
-Crested CSS stylesheet  
-Bug fizes for HTML and CSS  
+Created CSS stylesheet  
+Bug fixes for HTML and CSS  
 Optimized webpage  
 PPT contribution  
 Created login system  
